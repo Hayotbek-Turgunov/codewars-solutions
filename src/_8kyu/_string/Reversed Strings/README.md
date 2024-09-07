@@ -1,6 +1,6 @@
 # Solution for problem:
 
-[Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/)
+[Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/)
 
 ## Instructions
 
