@@ -1,6 +1,6 @@
 # Solution for problem:
 
-[Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/)
+[Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
 
 **Description:**
 Write a function which calculates the average of the numbers in a given list
