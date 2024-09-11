@@ -15,7 +15,7 @@
 9. [ Sentence Smash ](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
 10. [Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
 11. [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078)
-12. [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078)
+12. [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
 
 #### String
 
