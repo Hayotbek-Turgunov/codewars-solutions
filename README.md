@@ -13,6 +13,8 @@
 7. [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/)
 8. [ Invert values ](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/)
 9. [ Sentence Smash ](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
+10. [Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
+11. [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078)
 
 #### String
 
