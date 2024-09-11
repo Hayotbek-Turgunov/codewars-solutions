@@ -27,7 +27,7 @@ Input: [-2.398]
 Output: -2.398
 ```
 
-### Examples
+### Sample Tests
 
 ```plaintext
    (sum([]), 0);
