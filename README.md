@@ -11,6 +11,7 @@
 5. [Beginner Lost WithoutAMap](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/)
 6. [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/)
 7. [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/) 8.[Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/)
+8. [ Invert values ](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/) 8.[Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/)
 
 #### String
 
