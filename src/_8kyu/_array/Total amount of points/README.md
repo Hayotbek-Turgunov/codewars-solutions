@@ -1,6 +1,6 @@
 # Solution for problem:
 
-[A Needle in the Haystack ](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
+[Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)
 
 **Description:**
 Our football team has finished the championship.

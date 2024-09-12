@@ -17,6 +17,7 @@
 11. [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078)
 12. [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
 13. [ You only need one - Beginner ](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
+14. [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)
 
 #### String
 
