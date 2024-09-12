@@ -1,6 +1,6 @@
 # Solution for problem:
 
-[ Fake Binary ](https://www.codewars.com/kata/57eae65a4321032ce000002d)
+[ Covert a string to an array ](https://www.codewars.com/kata/57eae65a4321032ce000002d)
 
 ## Instructions
 
