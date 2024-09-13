@@ -18,6 +18,10 @@
 12. [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
 13. [ You only need one - Beginner ](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
 14. [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)
+15. [Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e)
+16. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
+17. [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
+18. [Removing Elements](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
 
 #### String
 
