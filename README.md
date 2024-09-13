@@ -26,6 +26,7 @@
 20. [ Fake Binary ](https://www.codewars.com/kata/57eae65a4321032ce000002d)
 21. [Count the Monkeys!](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)
 22. [Find the first non-consecutive number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)
+23. [I love you, a little , a lot, passionately ... not at all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
 
 #### String
 
