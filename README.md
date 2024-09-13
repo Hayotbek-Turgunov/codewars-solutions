@@ -22,6 +22,9 @@
 16. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
 17. [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
 18. [Removing Elements](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
+19. [Get the mean of an array](https://www.codewars.com/kata/563e320cee5dddcf77000158/train/javascript)
+20. [ Fake Binary ](https://www.codewars.com/kata/57eae65a4321032ce000002d)
+21. [Count the Monkeys!](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)
 
 #### String
 
