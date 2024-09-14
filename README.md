@@ -31,6 +31,8 @@
 25. [My head is at the wrong end!](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)
 26. [Find Multiples of a Number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
 27. [Filter out the geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
+28. [Merge two sorted arrays into one](https://www.codewars.com/kata/5899642f6e1b25935d000161)
+29. [Remove duplicates from list](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118)
 
 #### String
 
