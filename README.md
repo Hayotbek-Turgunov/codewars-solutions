@@ -37,6 +37,8 @@
 31. [Add Length](https://www.codewars.com/kata/559d2284b5bb6799e9000047)
 32. [Gravity Flip](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
 33. [ To square(root) or not to square(root)](https://www.codewars.com/kata/57f6ad55cca6e045d2000627)
+34. [ Sum of differences in array](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e)
+35. [ Remove First and Last Character Part Two](https://www.codewars.com/kata/570597e258b58f6edc00230d)
 
 #### String
 
