@@ -34,6 +34,8 @@
 28. [Merge two sorted arrays into one](https://www.codewars.com/kata/5899642f6e1b25935d000161)
 29. [Remove duplicates from list](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118)
 30. [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212)
+31. [Add Length](https://www.codewars.com/kata/559d2284b5bb6799e9000047)
+32. [Gravity Flip](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
 
 #### String
 
