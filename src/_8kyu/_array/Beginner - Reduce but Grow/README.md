@@ -7,9 +7,13 @@
 **Description:**  
 Given a non-empty array of integers, return the result of multiplying the values together in order. Example:
 
+### Example
+
 ```plaintext
 [1, 2, 3, 4] => 1 * 2 * 3 * 4 = 24
 ```
+
+### Sample Tests
 
 ```plaintext
 describe("Basic tests",() =>{
