@@ -50,3 +50,4 @@
 1. [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/)
 2. [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 3. [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
+4. [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
