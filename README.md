@@ -53,3 +53,4 @@
 4. [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 5. [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5)
 6. [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79)
+7. [Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
