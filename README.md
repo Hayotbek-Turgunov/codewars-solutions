@@ -55,3 +55,6 @@
 6. [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79)
 7. [Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
 8. [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
+9. [Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832)
+10. [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+11. [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4)
