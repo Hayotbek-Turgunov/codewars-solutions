@@ -58,3 +58,6 @@
 9. [Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832)
 10. [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 11. [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4)
+12. [Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
+13. [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)
+14. [ Fake Binary ](https://www.codewars.com/kata/57eae65a4321032ce000002d)
