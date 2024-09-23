@@ -61,3 +61,4 @@
 12. [Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
 13. [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)
 14. [ Fake Binary ](https://www.codewars.com/kata/57eae65a4321032ce000002d)
+15. [ You only need one - Beginner ](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
