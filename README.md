@@ -65,3 +65,4 @@
 16. [ If you can't sleep, just count sheep!! ](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
 17. [Grasshopper - Personalized Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7)
 18. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
+19. [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d)
