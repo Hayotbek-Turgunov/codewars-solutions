@@ -67,3 +67,4 @@
 18. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
 19. [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d)
 20. [Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076)
+21. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
