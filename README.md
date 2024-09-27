@@ -44,6 +44,7 @@
 38. [ How many stairs will Suzuki climb in 20 years?](https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e)
 39. [ Find the Difference in Age between Oldest and Youngest Family Members](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2)
 40. [CSV representation of array](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036)
+    IstheStringUppercase
 
 #### String
 
@@ -69,3 +70,4 @@
 20. [Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076)
 21. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 22. [ All Star Code Challenge #18](https://www.codewars.com/kata/5865918c6b569962950002a1)
+23. [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
