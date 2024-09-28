@@ -73,3 +73,4 @@
 23. [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 24. [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/577bd026df78c19bca0002c0)
 25. [Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96)
+26. [Short Long Short](https://www.codewars.com/kata/50654ddff44f800200000007)
