@@ -71,3 +71,4 @@
 21. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 22. [ All Star Code Challenge #18](https://www.codewars.com/kata/5865918c6b569962950002a1)
 23. [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
+24. [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/577bd026df78c19bca0002c0)
