@@ -1,6 +1,6 @@
 # Solution for problem:
 
-[ Covert a string to an array ](https://www.codewars.com/kata/57eae65a4321032ce000002d)
+[ Count words](https://www.codewars.com/kata/570cc83df616a85944001315)
 
 ## Instructions
 

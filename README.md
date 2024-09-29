@@ -82,3 +82,4 @@
 33. [ Covert a string to an array ](https://www.codewars.com/kata/57eae65a4321032ce000002d)
 34. [String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)
 35. [Simple Change Machine](https://www.codewars.com/kata/57238766214e4b04b8000011)
+36. [ Count words](https://www.codewars.com/kata/570cc83df616a85944001315)
