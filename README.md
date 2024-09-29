@@ -79,3 +79,4 @@
 29. [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d)
 30. [Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)
 31. [The Wide-Mouthed frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89)
+32. [Exclamation marks series #1: Remove an exclamation mark from the end of string](https://www.codewars.com/kata/57fae964d80daa229d000126)
