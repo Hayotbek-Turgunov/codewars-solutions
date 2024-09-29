@@ -76,3 +76,6 @@
 26. [Short Long Short](https://www.codewars.com/kata/50654ddff44f800200000007)
 27. [Sort and Star](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)
 28. [Short Long Short](https://www.codewars.com/kata/50654ddff44f800200000007)
+29. [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d)
+30. [Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)
+31. [The Wide-Mouthed frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89)
