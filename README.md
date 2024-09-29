@@ -44,7 +44,6 @@
 38. [ How many stairs will Suzuki climb in 20 years?](https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e)
 39. [ Find the Difference in Age between Oldest and Youngest Family Members](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2)
 40. [CSV representation of array](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036)
-    IstheStringUppercase
 
 #### String
 
