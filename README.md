@@ -79,3 +79,7 @@
 30. [Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)
 31. [The Wide-Mouthed frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89)
 32. [Exclamation marks series #1: Remove an exclamation mark from the end of string](https://www.codewars.com/kata/57fae964d80daa229d000126)
+33. [ Covert a string to an array ](https://www.codewars.com/kata/57eae65a4321032ce000002d)
+34. [String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)
+35. [Simple Change Machine](https://www.codewars.com/kata/57238766214e4b04b8000011)
+36. [ Count words](https://www.codewars.com/kata/570cc83df616a85944001315)
