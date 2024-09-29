@@ -44,7 +44,6 @@
 38. [ How many stairs will Suzuki climb in 20 years?](https://www.codewars.com/kata/56fc55cd1f5a93d68a001d4e)
 39. [ Find the Difference in Age between Oldest and Youngest Family Members](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2)
 40. [CSV representation of array](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036)
-    IstheStringUppercase
 
 #### String
 
@@ -79,3 +78,4 @@
 29. [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d)
 30. [Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)
 31. [The Wide-Mouthed frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89)
+32. [Exclamation marks series #1: Remove an exclamation mark from the end of string](https://www.codewars.com/kata/57fae964d80daa229d000126)
