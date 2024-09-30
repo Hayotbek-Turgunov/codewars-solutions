@@ -88,3 +88,4 @@
 39. [The Wide-Mouthed frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89)
 40. [Name Shuffler ](https://www.codewars.com/kata/559ac78160f0be07c200005a)
 41. [Welcome to the City](https://www.codewars.com/kata/5302d846be2a9189af0001e4)
+42. [Alan Partridge II - Apple Turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d)
