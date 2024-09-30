@@ -1,6 +1,6 @@
 # Solution for problem:
 
-[The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d)
+[Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212)
 
 ## Instructions
 

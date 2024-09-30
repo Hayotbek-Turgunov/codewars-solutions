@@ -1,6 +1,6 @@
 # Solution for problem:
 
-[Short Long Short](https://www.codewars.com/kata/50654ddff44f800200000007)
+[Vowel remover](https://www.codewars.com/kata/5547929140907378f9000039)
 
 ## Instructions
 
