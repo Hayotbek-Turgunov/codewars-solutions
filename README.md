@@ -90,3 +90,8 @@
 41. [Welcome to the City](https://www.codewars.com/kata/5302d846be2a9189af0001e4)
 42. [Alan Partridge II - Apple Turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d)
 43. [Remove First and Last Character Part Two](https://www.codewars.com/kata/570597e258b58f6edc00230d)
+
+#### Regular Expression
+
+1. [String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)
+2. [Simple validation of a username with regex](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023)
