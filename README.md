@@ -96,3 +96,11 @@
 1. [String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)
 2. [Simple validation of a username with regex](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023)
 3. [Regex count lowercase letters](https://www.codewars.com/kata/56a946cd7bd95ccab2000055)
+
+#### 7kyu
+
+#### Array
+
+1. [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
+2. [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
+3. [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
