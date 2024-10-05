@@ -106,3 +106,4 @@
 3. [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
 4. [The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063)
 5. [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
+6. [Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
