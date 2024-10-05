@@ -104,3 +104,5 @@
 1. [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
 2. [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
 3. [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
+4. [The highest profit wins!](https://www.codewars.com/kata/559590633066759614000063)
+5. [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
