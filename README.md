@@ -108,3 +108,4 @@
 5. [Odd or Even?](https://www.codewars.com/kata/5949481f86420f59480000e7)
 6. [Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
 7. [Testing 1-2-3](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
+8. [Sort array by string length](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
