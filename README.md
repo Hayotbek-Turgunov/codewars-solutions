@@ -111,3 +111,6 @@
 8. [Sort array by string length](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
 9. [Find the capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b)
 10. [Small enough? - Beginner](https://www.codewars.com/kata/57cc981a58da9e302a000214)
+11. [Don't give me five!](https://www.codewars.com/kata/5813d19765d81c592200001a)
+12. [Two Oldest Ages](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
+13. [No oddities here](https://codewars.com/kata/51fd6bc82bc150b28e0000ce)
