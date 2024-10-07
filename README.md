@@ -114,3 +114,4 @@
 11. [Don't give me five!](https://www.codewars.com/kata/5813d19765d81c592200001a)
 12. [Two Oldest Ages](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)
 13. [No oddities here](https://codewars.com/kata/51fd6bc82bc150b28e0000ce)
+14. [Check the exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
