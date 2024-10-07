@@ -117,3 +117,5 @@
 14. [Check the exam](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
 15. [Sum of Minimums!](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
 16. [Flatten and sort an array](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
+17. [Row Weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9)
+18. [Fizz Buzz](https://www.codewars.com/kata/5300901726d12b80e8000498)
