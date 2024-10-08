@@ -119,3 +119,4 @@
 16. [Flatten and sort an array](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
 17. [Row Weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9)
 18. [Fizz Buzz](https://www.codewars.com/kata/5300901726d12b80e8000498)
+19. [Even numbers in an array](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c)
