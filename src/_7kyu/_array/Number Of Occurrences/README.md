@@ -1,6 +1,6 @@
 # Solution for problem:
 
-[My Language Skills](https://www.codewars.com/kata/5b16490986b6d336c900007d)
+[Number Of Occurrences](https://www.codewars.com/kata/5b16490986b6d336c900007d)
 
 ## Instructions
 
