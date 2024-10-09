@@ -124,3 +124,5 @@
 21. [Head, Tail, Init and Last](https://www.codewars.com/kata/5b16490986b6d336c900007d)
 22. [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732)
 23. [Maximum Triplet Sum (Array Series #7)](https://www.codewars.com/kata/5aa1bcda373c2eb596000112)
+24. [Divide and Conquer](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
+25. [Convert an array of strings to array of numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
