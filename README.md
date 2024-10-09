@@ -120,3 +120,5 @@
 17. [Row Weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9)
 18. [Fizz Buzz](https://www.codewars.com/kata/5300901726d12b80e8000498)
 19. [Even numbers in an array](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c)
+20. [Maximum Product](https://www.codewars.com/kata/5a4138acf28b82aa43000117)
+21. [Head, Tail, Init and Last](https://www.codewars.com/kata/5b16490986b6d336c900007d)
