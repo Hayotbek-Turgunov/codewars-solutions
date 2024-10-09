@@ -127,3 +127,4 @@
 24. [Divide and Conquer](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f)
 25. [Convert an array of strings to array of numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
 26. [max diff - easy](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095)
+27. [Coding Meetup #2 - Higher-Order Functions Series - Greet developers](https://www.codewars.com/kata/58279e13c983ca4a2a00002a)
