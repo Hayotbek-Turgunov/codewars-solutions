@@ -129,3 +129,4 @@
 26. [max diff - easy](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095)
 27. [Coding Meetup #2 - Higher-Order Functions Series - Greet developers](https://www.codewars.com/kata/58279e13c983ca4a2a00002a)
 28. [Smallest value of an array](https://www.codewars.com/kata/544a54fd18b8e06d240005c0)
+29. [Tidy Number (Special Numbers Series #9)](https://www.codewars.com/kata/5a87449ab1710171300000fd)
