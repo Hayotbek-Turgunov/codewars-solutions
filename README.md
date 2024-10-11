@@ -132,3 +132,4 @@
 29. [Tidy Number (Special Numbers Series #9)](https://www.codewars.com/kata/5a87449ab1710171300000fd)
 30. [Number Of Occurrences](https://www.codewars.com/kata/5b16490986b6d336c900007d)
 31. [Largest Elements](https://www.codewars.com/kata/53d32bea2f2a21f666000256)
+32. [Return the Missing Element](https://www.codewars.com/kata/5299413901337c637e000004)
