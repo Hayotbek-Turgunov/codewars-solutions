@@ -130,3 +130,5 @@
 27. [Coding Meetup #2 - Higher-Order Functions Series - Greet developers](https://www.codewars.com/kata/58279e13c983ca4a2a00002a)
 28. [Smallest value of an array](https://www.codewars.com/kata/544a54fd18b8e06d240005c0)
 29. [Tidy Number (Special Numbers Series #9)](https://www.codewars.com/kata/5a87449ab1710171300000fd)
+30. [Number Of Occurrences](https://www.codewars.com/kata/5b16490986b6d336c900007d)
+31. [Largest Elements](https://www.codewars.com/kata/53d32bea2f2a21f666000256)
