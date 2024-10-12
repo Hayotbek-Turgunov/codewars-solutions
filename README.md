@@ -133,3 +133,4 @@
 30. [Number Of Occurrences](https://www.codewars.com/kata/5b16490986b6d336c900007d)
 31. [Largest Elements](https://www.codewars.com/kata/53d32bea2f2a21f666000256)
 32. [Return the Missing Element](https://www.codewars.com/kata/5299413901337c637e000004)
+33. [Nth Smallest Element (Array Series #4)](https://www.codewars.com/kata/5a512f6a80eba857280000fc)
