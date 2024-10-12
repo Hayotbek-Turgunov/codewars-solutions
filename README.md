@@ -134,3 +134,4 @@
 31. [Largest Elements](https://www.codewars.com/kata/53d32bea2f2a21f666000256)
 32. [Return the Missing Element](https://www.codewars.com/kata/5299413901337c637e000004)
 33. [Nth Smallest Element (Array Series #4)](https://www.codewars.com/kata/5a512f6a80eba857280000fc)
+34. [Product Of Maximums Of Array (Array Series #2)](https://www.codewars.com/kata/5a63948acadebff56f000018)
