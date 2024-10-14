@@ -136,3 +136,4 @@
 33. [Nth Smallest Element (Array Series #4)](https://www.codewars.com/kata/5a512f6a80eba857280000fc)
 34. [Product Of Maximums Of Array (Array Series #2)](https://www.codewars.com/kata/5a63948acadebff56f000018)
 35. [Coding Meetup #4 - Higher-Order Functions Series - Find the first Python developer](https://www.codewars.com/kata/5827bc50f524dd029d0005f2)
+36. [Sort by Last Char](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0)
