@@ -140,3 +140,4 @@
 37. [Sort by Last Char](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0)
 38. [Combine objects](https://www.codewars.com/kata/56bd9e4b0d0b64eaf5000819)
 39. [Name Array Capping](https://www.codewars.com/kata/5356ad2cbb858025d800111d)
+40. [Help the Fruit Guy](https://www.codewars.com/kata/557af4c6169ac832300000ba)
