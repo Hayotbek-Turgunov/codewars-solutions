@@ -138,3 +138,4 @@
 35. [Coding Meetup #4 - Higher-Order Functions Series - Find the first Python developer](https://www.codewars.com/kata/5827bc50f524dd029d0005f2)
 36. [Sort by Last Char](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0)
 37. [Sort by Last Char](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0)
+38. [Combine objects](https://www.codewars.com/kata/56bd9e4b0d0b64eaf5000819)
