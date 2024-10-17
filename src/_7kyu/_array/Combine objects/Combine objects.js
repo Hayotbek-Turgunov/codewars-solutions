@@ -10,3 +10,12 @@ function combine(...objects) {
     return combined;
   }, {});
 }
+
+// ikkkinchi usul
+const combine = (...objs) =>
+  objs.reduce(
+    (acc, cur) => (
+      Object.keys(cur).forEach((v) => (acc[v] = (acc[v] || 0) + cur[v])), acc
+    ),
+    {}
+  );
