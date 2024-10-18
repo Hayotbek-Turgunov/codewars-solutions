@@ -141,3 +141,8 @@
 38. [Combine objects](https://www.codewars.com/kata/56bd9e4b0d0b64eaf5000819)
 39. [Name Array Capping](https://www.codewars.com/kata/5356ad2cbb858025d800111d)
 40. [Help the Fruit Guy](https://www.codewars.com/kata/557af4c6169ac832300000ba)
+
+#### String
+
+1. [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+2. [Vowel Count](https://www.codewars.com/kata/52fba66badcd10859f00097e)
