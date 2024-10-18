@@ -146,3 +146,4 @@
 
 1. [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
 2. [Vowel Count](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+3. [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
