@@ -151,3 +151,5 @@
 5. [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 6. [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 7. [Mumbling](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
+8. [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
+9. [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
