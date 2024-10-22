@@ -157,3 +157,5 @@
 11. [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
 12. [Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
 13. [Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
+14. [Find the capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b)
+15. [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
