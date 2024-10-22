@@ -1,6 +1,6 @@
 # Solution for problem:
 
-[Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+[Find the capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b)
 
 **Description:**
 
