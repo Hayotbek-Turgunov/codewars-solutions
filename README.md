@@ -153,3 +153,6 @@
 7. [Mumbling](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 8. [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 9. [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
+10. [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)
+11. [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
+12. [Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
