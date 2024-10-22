@@ -156,3 +156,4 @@
 10. [Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)
 11. [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
 12. [Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
+13. [Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
