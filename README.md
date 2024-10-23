@@ -159,3 +159,5 @@
 13. [Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
 14. [Find the capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b)
 15. [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
+16. [The Coupon Code](https://www.codewars.com/kata/539de388a540db7fec000642)
+17. [Number of Decimal Digits](https://www.codewars.com/kata/58fa273ca6d84c158e000052)
