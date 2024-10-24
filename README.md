@@ -164,3 +164,4 @@
 18. [Greet Me](https://www.codewars.com/kata/535474308bb336c9980006f2)
 19. [Sort the Gift Code](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3)
 20. [Remove duplicate words](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)
+21. [Bumps in the Road](https://www.codewars.com/kata/57ed30dde7728215300005fa)
