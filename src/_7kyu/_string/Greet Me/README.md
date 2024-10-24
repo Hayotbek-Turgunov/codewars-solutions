@@ -1,6 +1,6 @@
 # Solution for problem:
 
-[Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
+[Greet Me](https://www.codewars.com/kata/535474308bb336c9980006f2)
 
 **Description:**
 
