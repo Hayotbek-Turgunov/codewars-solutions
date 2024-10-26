@@ -165,3 +165,4 @@
 19. [Sort the Gift Code](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3)
 20. [Remove duplicate words](https://www.codewars.com/kata/5b39e3772ae7545f650000fc)
 21. [Bumps in the Road](https://www.codewars.com/kata/57ed30dde7728215300005fa)
+22. [Filter the number](https://www.codewars.com/kata/55b051fac50a3292a9000025)
