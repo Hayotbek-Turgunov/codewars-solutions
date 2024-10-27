@@ -168,3 +168,4 @@
 22. [Filter the number](https://www.codewars.com/kata/55b051fac50a3292a9000025)
 23. [Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe](https://www.codewars.com/kata/582746fa14b3892727000c4f)
 24. [Odd-Even String Sort ](https://www.codewars.com/kata/580755730b5a77650500010c)
+25. [Digits explosion](https://www.codewars.com/kata/585b1fafe08bae9988000314)
