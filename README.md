@@ -170,3 +170,6 @@
 24. [Odd-Even String Sort ](https://www.codewars.com/kata/580755730b5a77650500010c)
 25. [Digits explosion](https://www.codewars.com/kata/585b1fafe08bae9988000314)
 26. [Tidy Number (Special Numbers Series #9)](https://www.codewars.com/kata/5a87449ab1710171300000fd)
+27. [Convert an array of strings to array of numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
+28. [Coding Meetup #2 - Higher-Order Functions Series - Greet developers](https://www.codewars.com/kata/57ed30dde7728215300005fa)
+29. [Divide and Conquer](https://www.codewars.com/kata/57eaec5608fed543d6000021)
