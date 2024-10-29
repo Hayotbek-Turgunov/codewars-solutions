@@ -170,3 +170,5 @@
 24. [Odd-Even String Sort ](https://www.codewars.com/kata/580755730b5a77650500010c)
 25. [Digits explosion](https://www.codewars.com/kata/585b1fafe08bae9988000314)
 26. [Tidy Number (Special Numbers Series #9)](https://www.codewars.com/kata/5a87449ab1710171300000fd)
+27. [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
+28. [All Star Code Challenge #18](https://www.codewars.com/kata/5865918c6b569962950002a1)
