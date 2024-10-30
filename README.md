@@ -173,3 +173,4 @@
 27. [Convert an array of strings to array of numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
 28. [Coding Meetup #2 - Higher-Order Functions Series - Greet developers](https://www.codewars.com/kata/57ed30dde7728215300005fa)
 29. [Divide and Conquer](https://www.codewars.com/kata/57eaec5608fed543d6000021)
+30. [The old switcheroo](https://www.codewars.com/kata/55d410c492e6ed767000004f)
