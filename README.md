@@ -175,3 +175,4 @@
 29. [Divide and Conquer](https://www.codewars.com/kata/57eaec5608fed543d6000021)
 30. [The old switcheroo](https://www.codewars.com/kata/55d410c492e6ed767000004f)
 31. [Nickname Generator](https://www.codewars.com/kata/593b1909e68ff627c9000186)
+32. [Valid Parentheses](https://www.codewars.com/kata/539de388a540db7fec000642)
