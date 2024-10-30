@@ -174,3 +174,4 @@
 28. [Coding Meetup #2 - Higher-Order Functions Series - Greet developers](https://www.codewars.com/kata/57ed30dde7728215300005fa)
 29. [Divide and Conquer](https://www.codewars.com/kata/57eaec5608fed543d6000021)
 30. [The old switcheroo](https://www.codewars.com/kata/55d410c492e6ed767000004f)
+31. [Nickname Generator](https://www.codewars.com/kata/593b1909e68ff627c9000186)
