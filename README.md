@@ -176,3 +176,6 @@
 30. [The old switcheroo](https://www.codewars.com/kata/55d410c492e6ed767000004f)
 31. [Nickname Generator](https://www.codewars.com/kata/593b1909e68ff627c9000186)
 32. [Valid Parentheses](https://www.codewars.com/kata/539de388a540db7fec000642)
+33. [Substituting Variables Into Strings: Padded Numbers](https://www.codewars.com/kata/51c89385ee245d7ddf000001)
+34. [Most digits](https://www.codewars.com/kata/58daa7617332e59593000006)
+35. [Help the Fruit Guy](https://www.codewars.com/kata/557af4c6169ac832300000ba)
