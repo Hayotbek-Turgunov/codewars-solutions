@@ -1,6 +1,6 @@
 # Solution for problem:
 
-[Greet Me](https://www.codewars.com/kata/535474308bb336c9980006f2)
+[Help the Fruit Guy](https://www.codewars.com/kata/557af4c6169ac832300000ba)
 
 **Description:**
 
