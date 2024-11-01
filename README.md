@@ -181,3 +181,4 @@
 35. [Help the Fruit Guy](https://www.codewars.com/kata/557af4c6169ac832300000ba)
 36. [Coding Meetup #4 - Higher-Order Functions Series - Find the first Python developer](https://www.codewars.com/kata/5827bc50f524dd029d0005f2)
 37. [Coding Meetup #5 - Higher-Order Functions Series - Prepare the count of languages](https://www.codewars.com/kata/coding-meetup-number-5-higher-order-functions-series-prepare-the-count-of-languages)
+38. [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c)
