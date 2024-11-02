@@ -183,3 +183,4 @@
 37. [Coding Meetup #5 - Higher-Order Functions Series - Prepare the count of languages](https://www.codewars.com/kata/coding-meetup-number-5-higher-order-functions-series-prepare-the-count-of-languages)
 38. [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c)
 39. [Drone Fly-By](https://www.codewars.com/kata/58356a94f8358058f30004b5)
+40. [Coding Meetup #12 - Higher-Order Functions Series - Find GitHub admins](https://www.codewars.com/kata/582dace555a1f4d859000058)
